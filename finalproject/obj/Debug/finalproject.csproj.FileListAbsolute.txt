@@ -1,0 +1,15 @@
+D:\finalproject\finalproject\bin\Debug\finalproject.exe.config
+D:\finalproject\finalproject\bin\Debug\finalproject.exe
+D:\finalproject\finalproject\bin\Debug\finalproject.pdb
+D:\finalproject\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+D:\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+D:\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+D:\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+D:\finalproject\finalproject\obj\Debug\finalproject.exe
+D:\finalproject\finalproject\obj\Debug\finalproject.pdb
+D:\finalproject\finalproject\bin\Debug\EntityFramework.dll
+D:\finalproject\finalproject\bin\Debug\EntityFramework.xml
+D:\finalproject\finalproject\obj\Debug\finalproject.csproj.CopyComplete
+D:\finalproject\finalproject\obj\Debug\finalproject.FLogin.resources
+D:\finalproject\finalproject\obj\Debug\finalproject.FQuanli.resources
+D:\finalproject\finalproject\obj\Debug\finalproject.FRegister.resources
